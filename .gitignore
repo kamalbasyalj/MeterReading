@@ -1,0 +1,112 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.dgml
+*.tmp_proj
+*.unsuccessfulbuild
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Pp]ublish*/
+
+Ankh.NoLoad
+*.vsmdi
+*.datasource 
+UpgradeLog*
+
+#Visual Studio options
+.vs/
+
+#MonoDevelop
+*.pidb
+*.userprefs
+
+#Tooling
+*.ncrunchsolution
+_ReSharper*/
+*.resharper
+TestResults/
+*.sass-cache
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+
+#NuGet
+Binaries/
+Artifacts/
+packages/
+
+#ncrunch
+*crunch*.local.xml
+_NCRUNCH__*
+*.ncrunchproject
+
+# visual studio database projects
+*.dbmdl
+
+#Test files
+*.testsettings
+
+#Error log
+errors.txt
+SqlScripts/out/
+
+#Crystal Report Web Files
+*aspnet_client*
+*.metaproj
+*.tmp
+Full Build/
+
+#TestComplete
+*.tcLS
+Log/
+*.tcCFGExtender
+
+#NodeModules
+npm-debug.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+_NCrunch*
+.vagrant
+
+*.exe
+*.zip
+
+!NuGet.exe
+
+!Regression Tests/Provisioning/PsExec.exe
+!Regression Tests/Database/AutomationDB230.zip
+Source/IRIS.Law.PmsCommonData/Accounts/DsAntiDisbLedgerTransactions.cs
